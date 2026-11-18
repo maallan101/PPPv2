@@ -10,6 +10,8 @@ const double GST_TAX = 0.05; // 5% in decimal
 
 // ---------------- prototypes ------------------
 int calcSlicesNeeded(int guests, int slicesPerGuest);
+
+
 // TODO finish prototypes
 
 // -----------------main function ----------------
